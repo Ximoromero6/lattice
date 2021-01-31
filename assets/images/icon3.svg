@@ -1,0 +1,25 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle r="16" transform="matrix(1 0 0 -1 16 16)" fill="#A5DED5"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="32">
+<circle r="16" transform="matrix(1 0 0 -1 16 16)" fill="url(#paint0_radial)"/>
+</mask>
+<g mask="url(#mask0)">
+<path opacity="0.47" fill-rule="evenodd" clip-rule="evenodd" d="M-9.48645 29.3215L15.9965 5.2002L41.4794 29.3215C41.8728 30.0802 41.2151 30.9612 40.3945 30.775L15.9965 37.054L-8.40149 30.775C-9.22218 30.9612 -9.87981 30.0802 -9.48645 29.3215Z" fill="#1FAE96"/>
+<g opacity="0.2" filter="url(#filter0_f)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.9939 9.60797L9.0412 22.7408C8.94542 22.9217 9.10554 23.1318 9.30537 23.0874L15.9959 21.6006L22.6865 23.0874C22.8863 23.1318 23.0465 22.9217 22.9507 22.7408L15.998 9.60797V9.6001L15.9959 9.60403L15.9939 9.6001V9.60797Z" fill="#167B6A"/>
+</g>
+<path d="M16.008 20V8L22.9648 21.1407C23.0606 21.3216 22.9005 21.5317 22.7007 21.4873L16.008 20Z" fill="#E9F7F4"/>
+<path d="M15.992 20V8L9.03516 21.1407C8.93939 21.3216 9.09951 21.5317 9.29933 21.4873L15.992 20Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_f" x="8.0127" y="8.6001" width="15.9665" height="15.4933" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur"/>
+</filter>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(16) rotate(90) scale(32)">
+<stop stop-color="#1FAE96"/>
+<stop offset="1" stop-color="#23B9B0"/>
+</radialGradient>
+</defs>
+</svg>
