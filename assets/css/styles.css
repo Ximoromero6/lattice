@@ -734,6 +734,41 @@ main#main section#home_section img.home_bar {
   margin: 0 auto;
 }
 
+main#main section#brand_section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 60px 0 100px 0;
+}
+
+main#main section#brand_section h2 {
+  font-size: 38px;
+  font-weight: 700;
+  margin: 20px 0;
+  color: #222d38;
+}
+
+main#main section#brand_section p {
+  font-size: 22px;
+  margin-bottom: 15px;
+  color: #46586b;
+}
+
+main#main section#brand_section img {
+  margin: 0 auto;
+  width: 80%;
+}
+
 footer#footer {
   padding: 80px 30px;
   background-image: url("../images/bottom_icon.svg");
