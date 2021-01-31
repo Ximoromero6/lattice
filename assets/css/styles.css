@@ -206,7 +206,8 @@ header#header nav.container .left_section ul.menu nav.products_container .top_se
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly;
   padding: 30px 50px;
-  margin-bottom: 20px;
+  /*                         margin-bottom: 20px;
+ */
 }
 
 header#header nav.container .left_section ul.menu nav.products_container .top_section .column {
@@ -241,7 +242,7 @@ header#header nav.container .left_section ul.menu nav.products_container .top_se
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin-bottom: 25px;
+  margin-bottom: 35px;
 }
 
 header#header nav.container .left_section ul.menu nav.products_container .top_section .column a .left_column img {

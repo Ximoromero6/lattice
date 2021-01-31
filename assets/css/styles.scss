@@ -135,7 +135,8 @@ header#header {
                         align-items: center;
                         justify-content: space-evenly;
                         padding: 30px 50px;
-                        margin-bottom: 20px;
+                        /*                         margin-bottom: 20px;
+ */
                         .column {
                             display: flex;
                             flex-direction: column;
@@ -150,7 +151,7 @@ header#header {
                                 display: flex;
                                 align-items: flex-start;
                                 justify-content: center;
-                                margin-bottom: 25px;
+                                margin-bottom: 35px;
                                 .left_column {
                                     img {
                                         width: 26px;
